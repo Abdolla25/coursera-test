@@ -24,3 +24,8 @@ body {
         margin-right: 0;
     }
 }
+@media (min-width: 768px){
+    .navbar-toggler{
+        display: none;
+    }
+}
