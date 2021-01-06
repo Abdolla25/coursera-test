@@ -12,6 +12,7 @@ body {
 .menu-item {
     background-color: bisque;
     color: brown;
+    margin-bottom: 25px;
 }
 .menu-item h3 {
     color: cadetblue;
